@@ -1,0 +1,7 @@
+'Hello Code Platoon!' // this is a string
+"Hello Code Platoon!" // also a string. Anything surrounded by single or double quotes is a string 
+// You can add strings together. This is also called concatenating.
+
+'I heart ' + 'Javascript!' // I heart Javascript
+
+We will learn more about strings as we progress, but for right now, just know that strings are how we deal with text.
